@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Promemoria Farmaci",
+    "slug": "farmaci-reminder",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.lucar9.farmacireminder"
+    },
+    "platforms": ["android"]
+  }
+}
